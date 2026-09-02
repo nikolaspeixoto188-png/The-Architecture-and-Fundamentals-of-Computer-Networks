@@ -2,12 +2,6 @@
 
 > Caderno Temático criado com NotebookLM para o Desafio DIO.
 
-### 📎 Comprovação
-**Estúdio:** Redes Flashcards (5 fontes - 26min atrás) | Redes Mapa (28min atrás) | Redes Quiz (31min atrás)
-- Flashcards: https://notebook.google.com/notebook/d678112a-30f5-4dc7-9688-2c7dcc06f076/artifact/bb924a0d-ec8d-4a33-a039-1faf7df2abd7
-- Mapa: https://notebook.google.com/notebook/d678112a-30f5-4dc7-9688-2c7dcc06f076/artifact/245268a9-ff20-42c0-aaa9-86261b0c59b0
-- Quiz: https://notebook.google.com/notebook/d678112a-30f5-4dc7-9688-2c7dcc06f076/artifact/48c87b0f-8645-4217-9a0d-47248e0c877c
-**Apoio ChatGPT:** https://chatgpt.com/c/6a9751b0-05d8-83e9-a894-ff6ccd6a8264
 ![Mapa](NotebookLM%20Mind%20Map.png)
 
 ---
@@ -217,7 +211,7 @@ Exemplos:
 > Com base nas fontes, compare OSI e TCP/IP. Crie tabela com Modelo, Camadas, Função, Protocolos, Exemplos. Ao final, explique por que é importante para profissionais de redes.
 
 **Resposta:** 
-(NotebookLM Mind Map.png)
+![Tabela OSI vs TCP/IP](Screenshot_2.png)
 
 **PROMPT 3 — Troubleshooting:**
 > Crie um cenário prático de troubleshooting com Windows e Linux. Explique Sintoma, Hipóteses, Testes, Comandos, Análise, Causa raiz, Solução, Validação. Como profissional de NOC.
@@ -227,12 +221,60 @@ Exemplos:
 **PROMPT 4 — Aprendizagem Ativa:**
 > Crie 15 perguntas (5 básicas, 5 intermediárias, 5 avançadas) usando só as fontes. Não mostre respostas. Aguarde minhas respostas e avalie.
 
-**Resposta:** Gerou os artefatos Redes Flashcards e Redes Quiz do Estúdio (seu print). Mostra uso de IA para estudar, não só copiar.
+**Resposta:** Conjunto de flashcards e quiz gerados no Estúdio, permitindo prática ativa e avaliação de desempenho.
 
 **PROMPT 5 — Glossário:**
 > Com base nas fontes, crie um glossário com 20+ termos. Para cada: Termo, Definição, Função, Exemplo. Ordem alfabética.
 
-**Resposta:** Glossário com 24 termos: Access Point, Broadcast, Bridge, Cabo UTP, CIDR, DHCP, DNS, IP, MAC, FTP, Gateway, Host, HTTP, Hub, IMAP, MIME, NAT, NTP, POP3, Roteador, SSH, Switch, TCP, UDP.
+**Resposta:** Glossário com 24 termos: 
+
+Access Point
+
+Broadcast
+
+Bridge
+
+Cabo UTP
+
+CIDR
+
+DHCP
+
+DNS
+
+FTP
+
+Gateway
+
+Host
+
+HTTP
+
+Hub
+
+IMAP
+
+IP
+
+MAC
+
+MIME
+
+NAT
+
+NTP
+
+POP3
+
+Roteador
+
+SSH
+
+Switch
+
+TCP
+
+UDP
 
 ### 4. Miniguia de Estudo (Entrega Final)
 
@@ -264,3 +306,7 @@ Ver PROMPT 5 completo acima - 24 termos de Access Point a UDP com definição, f
 2. `Crie um cenário de troubleshooting NOC com Windows 192.168.1.10/24 vs Linux 192.168.0.11/24 - mostre causa raiz de sub-rede e solução via DHCP`
 3. `Crie 15 perguntas (5 básicas, 5 int., 5 avanç.) sobre redes usando só as fontes e me avalie depois`
 4. `Gere um glossário alfabético com 20+ termos com Termo, Definição, Função e Exemplo prático`
+5. ### 📎 Comprovação
+- Flashcards: https://notebook.google.com/notebook/d678112a-30f5-4dc7-9688-2c7dcc06f076/artifact/bb924a0d-ec8d-4a33-a039-1faf7df2abd7
+- Mapa: https://notebook.google.com/notebook/d678112a-30f5-4dc7-9688-2c7dcc06f076/artifact/245268a9-ff20-42c0-aaa9-86261b0c59b0
+- Quiz: https://notebook.google.com/notebook/d678112a-30f5-4dc7-9688-2c7dcc06f076/artifact/48c87b0f-8645-4217-9a0d-47248e0c877c
